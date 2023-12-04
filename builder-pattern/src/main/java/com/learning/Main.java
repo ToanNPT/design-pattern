@@ -1,9 +1,6 @@
 package com.learning;
 
-import com.learning.interfaces.LaptopBuilder;
 import com.learning.models.Laptop;
-
-import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
