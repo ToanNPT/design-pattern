@@ -1,4 +1,6 @@
-package com.learning.interfaces;
+package com.learning.subjects;
+
+import com.learning.observers.Observer;
 
 public interface Subject {
     void registerObserver(Observer o);

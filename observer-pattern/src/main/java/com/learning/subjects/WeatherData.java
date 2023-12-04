@@ -1,7 +1,6 @@
 package com.learning.subjects;
 
-import com.learning.interfaces.Observer;
-import com.learning.interfaces.Subject;
+import com.learning.observers.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
